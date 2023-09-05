@@ -1,4 +1,5 @@
-![192 168 100 12_5500_index html](https://github.com/napalfacundo/linear-demo/assets/85197587/9de26e35-266d-4041-a031-92e7a5df94b0)
+![linear-demo-screenshot](https://github.com/napalfacundo/linear-demo/assets/85197587/709115a8-d40a-4b7b-8136-11366de62c7b)
+
   
 
 * HTML strcuture is readable and easy to mantain an reuse
